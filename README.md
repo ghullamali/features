@@ -7,4 +7,4 @@ Texture Features Library that is supported for extraction of features like Contr
 * Energy 
 * Entropy
 
-[Ghulam Ali](ghullamali@gmail.com)
+  [Ghulam Ali](ghullamali@gmail.com)

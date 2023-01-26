@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "features"
+version = "0.0.1"
+description = "Feature Extration Library"
+readme = "README.md"
+requires-python = ">=3.7"
+keywords = ["features", "GLCM", "contrast", "energy", "entropy"]
+license = {text = "MIT"}
+authors = [ { name = "Ghulam Ali", email = "ghullamali@gmail.com" } ]
+dependencies = [ "numpy", "pandas" ] # Not really required
+
